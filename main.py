@@ -14,5 +14,3 @@ def create_app ():
     jwt.init_app(app)
 
     return app
-
-.flaskenv .env
