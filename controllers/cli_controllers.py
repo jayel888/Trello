@@ -58,7 +58,7 @@ def seed_table():
         )
         ]
 
-    
+
 
 
     db.session.add_all(cards)
